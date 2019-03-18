@@ -1,0 +1,29 @@
+<section class="pb_section" data-section="why-us" id="section-why-us">
+  <div class="container">
+    <div class="row justify-content-md-center text-center mb-5">
+      <div class="col-lg-7">
+        <h2 class="mt-0 heading-border-top font-weight-normal">{{why.title}}</h2>
+        <p>{{why.description}}</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-7">
+        <div class="images right">
+          <img class="img1 img-fluid" src="assets/images/why1.jpg" alt="free Template by uicookies.com">
+          <img class="img2" src="assets/images/why2.jpg" alt="free Template by uicookies.com">
+        </div>
+      </div>
+      <div class="col-lg-5 pl-md-5 pl-sm-0"  dir="rtl">
+        <div id="exampleAccordion" class="pb_accordion" data-children=".item">
+          <div class="item" *ngFor="let res of why.resons;  index as i">
+            <a data-toggle="collapse" data-parent="#exampleAccordion" href="#exampleAccordion{{i}}" aria-expanded="false" aria-controls="exampleAccordion1" class="pb_font-18">─   {{res.title}}</a>
+            <div id="exampleAccordion{{i}}" class="collapse" role="tabpanel">
+              <p *ngFor="let des of res.descriptions">{{des}}</p>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</section>

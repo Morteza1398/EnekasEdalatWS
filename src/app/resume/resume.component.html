@@ -1,0 +1,15 @@
+<section class="pb_section bg-light">
+  <div class="container">
+    <div class="row">
+      <div class="col-md" *ngFor="let item of resume.parts;  index as i">
+        <div class="media pb_media_v2 d-block text-center mb-3">
+          <div class="icon border border-gray rounded-circle d-block mr-3 display-4 mx-auto mb-4"><i class="flaticon text-secondary {{item.icon}}"></i></div>
+          <div class="media-body">
+            <h3 class="mt-0 pb_font-20">{{item.title}}</h3>
+            <p>{{item.description}}</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

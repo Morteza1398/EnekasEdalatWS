@@ -1,32 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-	<head>
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-		<title>انعکاس عدالت</title>
-		<meta name="description" content="موسسه حقوقی انعکاس عدالت">
-		<meta name="keywords" content="law lawer">
-    
-    <link href="https://fonts.googleapis.com/css?family=Crimson+Text:400,400i,600|Montserrat:200,300,400" rel="stylesheet">
-
-		<link rel="stylesheet" href="assets/css/bootstrap/bootstrap.css">
-    <link rel="stylesheet" href="assets/fonts/ionicons/css/ionicons.min.css">
-    <link rel="stylesheet" href="assets/fonts/law-icons/font/flaticon.css">
-
-    <link rel="stylesheet" href="assets/fonts/fontawesome/css/font-awesome.min.css">
-    
-    
-    <link rel="stylesheet" href="assets/css/slick.css">
-    <link rel="stylesheet" href="assets/css/slick-theme.css">
-
-    <link rel="stylesheet" href="assets/css/helpers.css">
-    <link rel="stylesheet" href="assets/css/style.css">
-	</head>
-  
-  
-  <body data-spy="scroll" data-target="#pb-navbar" data-offset="200">
-    
     <nav class="navbar navbar-expand-lg navbar-dark pb_navbar pb_scrolled-light" id="pb-navbar">
       <div class="container">
         <a class="navbar-brand" href="/">انعکاس عدالت</a>
@@ -35,12 +7,12 @@
         </button>
         <div class="collapse navbar-collapse" id="probootstrap-navbar">
           <ul class="navbar-nav ml-auto">
-            <li class="nav-item"><a class="nav-link" href="#section-home">خانه</a></li>
+            <li class="nav-item"><a class="nav-link" href="#section-home">صفحه اصلی</a></li>
             <li class="nav-item"><a class="nav-link" href="#section-about">درباره ما</a></li>
             <li class="nav-item"><a class="nav-link" href="#section-why-us">چرا ما ؟</a></li>
             <li class="nav-item"><a class="nav-link" href="#section-practicing-areas">حوضه های کاری</a></li>
-            <li class="nav-item"><a class="nav-link" href="#section-attorneys">وکلای ما</a></li>
-            <li class="nav-item"><a class="nav-link" href="#section-testimonials">موکلین ما</a></li>
+            <li class="nav-item"><a class="nav-link" href="#section-attorneys">وکلا</a></li>
+            <li class="nav-item"><a class="nav-link" href="#section-testimonials">موکلین</a></li>
             <li class="nav-item"><a class="nav-link" href="#section-contact">تماس با ما</a></li>
           </ul>
         </div>
@@ -51,7 +23,7 @@
     <section class="pb_cover_v1 text-left cover-bg-black cover-bg-opacity-4" style="background-image: url(assets/images/home.jpg)" id="section-home">
       <div class="container">
         <div class="row align-items-center justify-content-end">
-          <div class="col-md-6  order-md-1">
+          <div class="col-md-8  order-md-1">
 
             <h2 class="heading mb-3">موسسه حقوقی انعکاس عدالت</h2>
             <div class="sub-heading"><p class="mb-5">یک وکیل خوب فردایی بهتر را تضمین میکند و امروزه داشتن آن امری ضروریست</p>
@@ -69,14 +41,13 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-5 pr-md-5 pr-sm-0">
-            <h2 class="mt-0 heading-border-top mb-3 font-weight-normal">درباره ما</h2>
+            <h2 class="mt-0 heading-border-top mb-3 font-weight-normal">دزباره ما ؟</h2>
             <p>انعکاس عدالت موسسه ای است با بیش از سه دهه تجربه در تمامی موارد حقوقی و کیفری ... امروزه وکلای زیادی آماده خدمت رسانی به مردم می باشند اما آنچه آنها را از یکدیگر متمایز می نماید، میزان تجربه وکلا و میزان مراجعین آنها و به دست آوردن نتایج دلخواه انهاست. یک وکیل خبره و باتجربه همواره از طریق درست کاری و علم خود بین مردم مطرح می شود و هیچگاه اقدام به ارائه تبلیغات دروغین نمی نماید.</p>
             <p>انعکاس عدالت با استفاده از بهترین و مجربترین وکلای کشور اعم از قضات بازنشسته دادگستری و اساتید دانشگاه ها و... سعی در ارایه بهترین نتایج برای شما عزیزان دارد</p>
           </div>
           <div class="col-lg-7">
             <div class="images">
-              <img class="img1 img-fluid" src="assets/images/about1.jpg" alt="free Template by uicookies.com">
-              <img class="img2" src="assets/images/about2.jpg" alt="free Template by uicookies.com">
+              <img class="img1 img-fluid" src="assets/images/why1.jpg">
             </div>
           </div>
           
@@ -145,35 +116,29 @@
           </div>
         </div>
         <div class="row">
-          <div class="col-lg-7">
-            <div class="images right">
-              <img class="img1 img-fluid" src="assets/images/why1.jpg" alt="free Template by uicookies.com">
-              <img class="img2" src="assets/images/why2.jpg" alt="free Template by uicookies.com">
-            </div>
-          </div>
           <div class="col-lg-5 pl-md-5 pl-sm-0">
             <div id="exampleAccordion" class="pb_accordion" data-children=".item">
               <div class="item">
-                <a data-toggle="collapse" data-parent="#exampleAccordion" href="#exampleAccordion1" aria-expanded="true" aria-controls="exampleAccordion1" class="pb_font-18">روش های مدرن و کارآمد</a>
-                <div id="exampleAccordion1" class="collapse show" role="tabpanel">
+                <a data-toggle="collapse" data-parent="#exampleAccordion" href="#exampleAccordion2" aria-expanded="false" aria-controls="exampleAccordion2" class="pb_font-18">─   روش های مدرن و کارآمد</a>
+                <div id="exampleAccordion2" class="collapse" role="tabpanel">
                   <p>اغلب گفته می شود که وکلا  به کندی تغییر می کنند. ما این سنت را رد کرده ایم، فناوری را به عنوان ابزاری برای کمک به مشتریان ما به کار می بریم. در طول سالهای فعالیت ما بسیاری از روش های قدیمی را در عمل قانون شناسایی کرده ایم. ما قصد داریم آنها را تکمیل کنیم. در اینجا فقط چند پیشرفت ما وجود دارد</p>
                 </div>
               </div>
               <div class="item">
-                <a data-toggle="collapse" data-parent="#exampleAccordion" href="#exampleAccordion2" aria-expanded="false" aria-controls="exampleAccordion2" class="pb_font-18">گزینه های پرداخت الکترونیک</a>
-                <div id="exampleAccordion2" class="collapse" role="tabpanel">
+                <a data-toggle="collapse" data-parent="#exampleAccordion" href="#exampleAccordion3" aria-expanded="false" aria-controls="exampleAccordion3" class="pb_font-18">─   گزینه های پرداخت الکترونیک</a>
+                <div id="exampleAccordion3" class="collapse" role="tabpanel">
                   <p>بسیاری از شرکت های حقوقی همچنان نیاز به پرداخت قبوض قدیم دارند: پول نقد، چک کاغذ یا پردازش کارت اعتباری مبتنی بر تلفن. در حالی که ما این فرم های پرداخت را قبول می کنیم، به آنها نیاز نداریم. ما ترجیح می دهیم به راحتی پردازش پرداخت الکترونیکی - مشتریان ما می توانند صورتحساب خود را از طریق ایمیل دریافت و پرداخت آنلاین با بدهی و یا کارت اعتباری. ما فقط از پردازنده های امن استفاده می کنیم تا مشتریان ما را به آرامش خاطر برسانند.</p>
                 </div>
               </div>
               <div class="item">
-                <a data-toggle="collapse" data-parent="#exampleAccordion" href="#exampleAccordion3" aria-expanded="false" aria-controls="exampleAccordion3" class="pb_font-18">صورت حسابهای صادقانه</a>
-                <div id="exampleAccordion3" class="collapse" role="tabpanel">
+                <a data-toggle="collapse" data-parent="#exampleAccordion" href="#exampleAccordion4" aria-expanded="false" aria-controls="exampleAccordion4" class="pb_font-18">─   صورت حسابهای صادقانه</a>
+                <div id="exampleAccordion4" class="collapse" role="tabpanel">
                   <p>ما معتقدیم که وکلا نباید درگیر فروش و قیمت گذاری باشند. اغلب ما شاهد افرادی هستیم که بدون درک روشن در مورد امور مالی برای دعاوی قضایی اقدام کرده اند. این باعث سردرگمی و نارضایتی می شود - دو احساس که ما هرگز نمی خواهیم موکل هایمان  تجربه کنند. به همین دلیل است که ما مطمئن هستیم همه مسائل مالی به وضوح درک می شود قبل از اینکه ما با هر وکالت نامه ای شروع به اقدام کنیم.</p>
                 </div>
               </div>
               <div class="item">
-                <a data-toggle="collapse" data-parent="#exampleAccordion" href="#exampleAccordion4" aria-expanded="false" aria-controls="exampleAccordion4" class="pb_font-18">ارزیابی ریسک ها</a>
-                <div id="exampleAccordion4" class="collapse" role="tabpanel">
+                <a data-toggle="collapse" data-parent="#exampleAccordion" href="#exampleAccordion5" aria-expanded="false" aria-controls="exampleAccordion5" class="pb_font-18">─   ارزیابی ریسک ها</a>
+                <div id="exampleAccordion5" class="collapse" role="tabpanel">
                   <p>هر پرونده ای همیشه شامل برخی از عناصر خطر است. برای اینکه از این واقعیت غافل نشویم و خسارات جدی به موکلین ما وارد نشود، قبل از اینکه ما با نمایندگی موافق باشیم، مطمئن هستیم که موکلین ما همه مزایا و خطرات موجود در مسیر پیشنهادی ما را درک می کنند. هدف ما این است که به شما ابزاری برای تصمیم گیری آگاهانه برای خود بسپاریم. ، شما می توانید یک ارزیابی صادقانه و ساده بر اساس موارد ذیل داشته باشید:</p>
                   <p>شایستگی و شانس پرونده شما</p>
                   <p>اشکالات وموانع پیش رو و مواردی که بر آن غلبه خواهید کرد</p>
@@ -181,81 +146,17 @@
                 </div>
               </div>
             </div>
-
+          </div>
+          <div class="col-lg-7">
+            <div class="images right">
+              <img class="img1 img-fluid" src="assets/images/how.jpg" >
+            </div>
           </div>
         </div>
       </div>
     </section>
     <!-- END section -->
     
-    <section class="pb_section">
-      <div class="multiple-items pb_slide_v1">
-        <div>
-          <a href="#" class="link-block">
-            <img src="assets/images/1900x1200_img_4.jpg" alt="" class="img-fluid">
-            <div class="slide-text">
-              <h2>Criminal Law</h2>
-              <p>Read More</p>
-            </div>
-          </a>
-        </div>
-        <div>
-          <a href="#" class="link-block">
-            <img src="assets/images/1900x1200_img_2.jpg" alt="" class="img-fluid">
-            <div class="slide-text">
-              <h2>Migration Law</h2>
-              <span>Read More</span>
-            </div>
-          </a>
-        </div>
-        <div>
-          <a href="#" class="link-block">
-            <img src="assets/images/1900x1200_img_3.jpg" alt="" class="img-fluid">
-            <div class="slide-text">
-              <h2>Civil Rights</h2>
-              <span>Read More</span>
-            </div>
-          </a>
-        </div>
-        <div>
-          <a href="#" class="link-block">
-            <img src="assets/images/1900x1200_img_4.jpg" alt="" class="img-fluid">
-            <div class="slide-text">
-              <h2>Property Law</h2>
-              <span>Read More</span>
-            </div>
-          </a>
-        </div>
-        <div>
-          <a href="#" class="link-block">
-            <img src="assets/images/1900x1200_img_1.jpg" alt="" class="img-fluid">
-            <div class="slide-text">
-              <h2>Civil Rights</h2>
-              <span>Read More</span>
-            </div>
-          </a>
-        </div>
-        <div>
-          <a href="#" class="link-block">
-            <img src="assets/images/1900x1200_img_2.jpg" alt="" class="img-fluid">
-            <div class="slide-text">
-              <h2>State Laws</h2>
-              <span>Read More</span>
-            </div>
-          </a>
-        </div>
-        <div>
-          <a href="#" class="link-block">
-            <img src="assets/images/1900x1200_img_3.jpg" alt="" class="img-fluid">
-            <div class="slide-text">
-              <h2>Immigration Laws</h2>
-              <span>Read More</span>
-            </div>
-          </a>
-        </div>
-      </div>
-
-    </section>
     <!-- END section -->
 
     
@@ -263,7 +164,7 @@
       <div class="container">
         <div class="row justify-content-md-center text-center mb-5">
           <div class="col-lg-7">
-            <h2 class="mt-0 heading-border-top font-weight-normal">حوضه های کاری</h2>
+            <h2 class="mt-0 heading-border-top font-weight-normal">Practicing Areas</h2>
             <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
           </div>
         </div>
@@ -300,10 +201,17 @@
                   <div class="pb_content-media" style="background-image: url(assets/images/1900x1200_img_3.jpg);"></div>
                   <div class="slide_content-text text-center">
                     <div class="pb_icon_v1"><i class="flaticon text-primary flaticon-computer-security"></i></div>
-                    <h3 class="font-weight-normal mt-0 mb-4">جرایم رایانه ای<</h3>
-                    <p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-                    <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. And if she hasn’t been rewritten, then they are still using her.</p>
-                    <p>On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word "and" and the Little Blind Text should turn around and return to its own, safe country. But nothing the copy said could convince her and so it didn’t take long until a few insidious Copy Writers ambushed her, made her drunk with Longe and Parole and dragged her into their agency, where they abused her for their.</p>
+                    <h3 class="font-weight-normal mt-0 mb-4">جرایم رایانه ای</h3>
+                    <p>دسترسی غیرمجاز به داده‌ها یا سیستم‌های رایانه‌ای یا مخابراتی،شنود غیرمجاز،جاسوسی رایانه‌ای،</p>
+                    <P>جعل داده‌های قابل استناد یا ایجاد یا وارد کردن متقلبانه داده‌ها و تغییر داده‌ها یا علایم موجود در کارت‌های حافظه یا قابل پردازش در سیستم‌های رایانه‌ای یا مخابراتی یا تراشه‌ها یا ایجاد یا وارد کردن متقلبانهٔ داده‌ها یا علایم به آن‌ها.</p>
+                    <P>تخریب و اخلال در داده‌ها یا سیستم‌های رایانه‌ای و مخابراتی دیگری.</p>
+                    <P>سرقت و  کلاهبرداری مرتبط با رایانه.</p>
+                    <P>تولید، ارسال، انتشار، توزیع یا معامله داده‌های محتویات مستهجن (تصویر، صوت یا متن واقعی یا غیر واقعی که بیان‌گر برهنگی کامل زن یا مرد یا اندام تناسلی یا آمیزش یا عمل جنسی انسان است)</p>
+                    <P>تحریک، ترغیب، تهدید، دعوت، فریب یا آموزش ارتکاب جرائم منافی عفت یا استعمال مواد مخدر یا روان‌گردان یا خودکشی یا انحرافات جنسی یا اعمال خشونت‌آمیز∗</p>
+                    <P>هتک حیثیت و نشر اکاذیب، شامل تغییر یا تحریف و انتشار فیلم یا صوت یا تصویر دیگری - انتشار صوت یا تصویر یا فیلم خصوصی و خانوادگی دیگری بدون رضایت او و انتشار مطالب دروغ به قصد اضرار به غیر یا تشویش اذهان عمومی یا مقامات رسمی</p>
+                    <P>تولید یا انتشار یا توزیع یا معامله داده‌ها یا نرم‌افزارها یا هر نوع ابزار الکترونیکی که صرفاً به منظور ارتکاب جرائم رایانه‌ای به کار می‌روند.</p>
+                    <P>فروش یا انتشار یا در دسترس قرار دادن  گذرواژه یا هر داده‌ای که امکان دسترسی غیرمجاز به داده‌ها یا سیستم‌های رایانه‌ای یا مخابراتی متعلق به دیگری را فراهم می‌کند.</p>
+                    <P>آموزش نحوهٔ ارتکاب جرایم دسترسی غیرمجاز، شنود غیرمجاز، جاسوسی رایانه‌ای و تخریب و اخلال در داده‌ها یا سیستم‌های رایانه‌ای و مخابراتی.</p>
                   </div>
                 </div>
               </div>
@@ -498,7 +406,6 @@
 
     
     
-    
     <section class="pb_section" data-section="contact" id="section-contact">
       <div class="container">
 
@@ -598,8 +505,3 @@
     <script src="assets/js/jquery.easing.1.3.js"></script>
 
     <script src="assets/js/main.js"></script>
-
-	</body>
-
-
-</html>
